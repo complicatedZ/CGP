@@ -1,0 +1,11 @@
+
+# Large simulation outputs
+/FBAsolution/
+/FBAsolution.tar.gz
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# OS metadata
+*:Zone.Identifier

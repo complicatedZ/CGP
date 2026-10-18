@@ -1,0 +1,93 @@
+imodulon_k,imodulon_name,classification
+72,curli,Biological Enrichment
+35,fimbriae,Biological Enrichment
+74,flu-yeeRS,Biological Enrichment
+88,iron-related,Biological Enrichment
+77,lipopolysaccharide,Biological Enrichment
+83,membrane,Biological Enrichment
+39,nitrate-related,Biological Enrichment
+6,proVWX,Biological Enrichment
+90,sgrT,Biological Enrichment
+32,translation,Biological Enrichment
+5,BW25113,Genomic
+79,crp-KO,Genomic
+48,deletion-1,Genomic
+50,deletion-2,Genomic
+84,duplication-1,Genomic
+11,e14-deletion,Genomic
+3,efeU-repair,Genomic
+20,entC-menF-KO,Genomic
+29,fur-KO,Genomic
+73,gadWX-KO,Genomic
+91,insertion,Genomic
+81,purR-KO,Genomic
+46,thrA-KO,Genomic
+4,ydcI-KO,Genomic
+17,yheO-KO,Genomic
+53,Thiamine,single TF
+63,AllR/AraC/FucR,Multiple regulators
+23,Cbl+CysB,Multiple regulators
+62,Copper,Multiple regulators
+7,DhaR/Mlc,Multiple regulators
+86,ExuR/FucR,Multiple regulators
+31,GadEWX,Multiple regulators
+34,GadWX,Multiple regulators
+80,GntR/TyrR,Multiple regulators
+49,Leu/Ile,Multiple regulators
+44,NagC/TyrR,Multiple regulators
+58,NtrC+RpoN,Multiple regulators
+42,Pyruvate,Multiple regulators
+43,SrlR+GutM,Multiple regulators
+68,Zinc,Multiple regulators
+87,FecI,single sigma factor
+55,FliA,single sigma factor
+30,RpoH,single sigma factor
+82,RpoS,single sigma factor
+78,FlhDC,single TF
+14,Crp-2,single TF
+25,Crp-1,single TF
+51,Fur-1,single TF
+40,Fnr,single TF
+69,SoxS,single TF
+38,ArcA-1,single TF
+47,Lrp,single TF
+64,Cra,single TF
+70,Nac,single TF
+66,EvgA,single TF
+1,GlpR,single TF
+59,RcsAB,single TF
+10,NarL,single TF
+54,CysB,single TF
+45,CpxR,single TF
+8,ArgR,single TF
+65,ArcA-2,single TF
+2,YgbI,single TF
+41,CdaR,single TF
+76,FadR,single TF
+61,Fur-2,single TF
+19,MetJ,single TF
+16,PurR-1,single TF
+28,XylR,single TF
+0,YieP,single TF
+12,MalT,single TF
+22,PurR-2,single TF
+18,CsqR,single TF
+89,RbsR,single TF
+15,AtoC,single TF
+57,NikR,single TF
+33,PrpR,single TF
+13,OxyR,single TF
+56,PuuR,single TF
+9,YneJ,single TF
+26,YiaJ,single TF
+27,GcvA,single TF
+24,GlcC,single TF
+36,CecR,single TF
+60,His-tRNA,Single transcriptional attenuator
+71,Tryptophan,Single transcriptional attenuator
+75,uncharacterized-1,Uncharacterized
+67,uncharacterized-2,Uncharacterized
+85,uncharacterized-3,Uncharacterized
+37,uncharacterized-4,Uncharacterized
+52,uncharacterized-5,Uncharacterized
+21,uncharacterized-6,Uncharacterized
